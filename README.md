@@ -8,3 +8,5 @@ ltv_unknown_df <- read.csv("https://raw.githubusercontent.com/Delictum/Rmarkdown
 
 Для вывода результатов TukeyHSD используется plot, в котором при отображении результат TukeyHSD нельзя поменять заголовок и подписи осей.
 Все данные должны корректно обрабатываться в HTML.
+
+Основным файлом является RMD. Скачайте и запустите в R studio
